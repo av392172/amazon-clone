@@ -9,7 +9,8 @@ function Home() {
                 // className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Audio/Hdpns_Gw_3000x1200._CB415716258_.jpg" alt="" />
                 // className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/Multititle/jan/Blockbuster_entertainment/EN/3000x1200_Hero-Tall_NP._CB660702447_.jpg" alt="" />
                 // {/* className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/gateway/placement/launch/TheGreatEscapistsS1/TGET_S1_GWBleedingHero_FT_COVIDUPDATE_XSite_3000X1200_PV_en-GB._CB660604320_.jpg" alt="" /> */}
-                className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Wireless/vivo/2021/Jan/BAU/gw/D20071665_WL_VIVO_BAU_Jan21_tallhero_3000x1200._CB661014126_.jpg" alt="" />
+                // className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Wireless/vivo/2021/Jan/BAU/gw/D20071665_WL_VIVO_BAU_Jan21_tallhero_3000x1200._CB661014126_.jpg" alt="" />
+                className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/Multititle/Feb/EN/3000x1200_Hero-Tall_NP._CB661598783_.jpg" alt="" />
 
             <div className="home__row">
                 <Product
