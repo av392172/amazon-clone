@@ -36,14 +36,16 @@ function Header() {
                         </span>
                     </div>
                 </Link>
-                <div className="header__option">
-                    <span className="header__optionLineoOne">
-                        Returns
+                <Link to="/orders">
+                    <div className="header__option">
+                        <span className="header__optionLineoOne">
+                            Returns
                     </span>
-                    <span className="header__optionLineoTwo">
-                        & Orders
+                        <span className="header__optionLineoTwo">
+                            & Orders
                     </span>
-                </div>
+                    </div>
+                </Link>
                 <div className="header__option">
                     <span className="header__optionLineoOne">
                         Your
